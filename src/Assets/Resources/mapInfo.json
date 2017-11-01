@@ -1,0 +1,139 @@
+{
+    "MapList": [
+        {
+            "TargetSource": 1500,
+            "LimitTime": 60,
+            "FruitIndex": [ 0, 1, 2, 3, 4]
+        },
+        {
+            "TargetSource": 1600,
+            "LimitTime": 65,
+            "FruitIndex": [ 0, 1, 2, 3, 4 ]
+        },
+        {
+            "TargetSource": 1700,
+            "LimitTime": 68,
+            "FruitIndex": [ 0, 1, 2, 3, 4 ]
+        },
+        {
+            "TargetSource": 2000,
+            "LimitTime": 70,
+            "FruitIndex": [ 1, 2, 3, 4, 5 ]
+        },
+        {
+            "TargetSource": 2500,
+            "LimitTime": 71,
+            "FruitIndex": [ 1, 2, 3, 4, 5 ]
+        },
+        {
+            "TargetSource": 2600,
+            "LimitTime": 73,
+            "FruitIndex": [ 1, 2, 3, 4, 5 ]
+        },
+        {
+            "TargetSource": 2700,
+            "LimitTime": 75,
+            "FruitIndex": [ 1, 2, 3, 4, 5 ]
+        },
+        {
+            "TargetSource": 2800,
+            "LimitTime": 77,
+            "FruitIndex": [ 1, 2, 3, 4, 5 ]
+        },
+        {
+            "TargetSource": 2900,
+            "LimitTime": 79,
+            "FruitIndex": [ 1, 2, 3, 4, 5 ]
+        },
+        {
+            "TargetSource": 3000,
+            "LimitTime": 81,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3100,
+            "LimitTime": 82,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3200,
+            "LimitTime": 83,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3300,
+            "LimitTime": 85,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3500,
+            "LimitTime": 86,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3600,
+            "LimitTime": 87,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3700,
+            "LimitTime": 88,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3800,
+            "LimitTime": 89,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 3900,
+            "LimitTime": 90,
+            "FruitIndex": [ 1, 2, 3, 5, 6 ]
+        },
+        {
+            "TargetSource": 4000,
+            "LimitTime": 91,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 4100,
+            "LimitTime": 92,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 4200,
+            "LimitTime": 93,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 4300,
+            "LimitTime": 95,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 4500,
+            "LimitTime": 96,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 4600,
+            "LimitTime": 97,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 4700,
+            "LimitTime": 98,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 4800,
+            "LimitTime": 99,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        },
+        {
+            "TargetSource": 5000,
+            "LimitTime": 100,
+            "FruitIndex": [ 2, 3, 5, 6, 7 ]
+        }
+    ]
+}

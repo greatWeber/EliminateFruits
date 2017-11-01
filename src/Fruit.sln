@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit", "Fruit.csproj", "{A969A7D6-E470-63BF-EE3E-7ED4FAFE4303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit.Plugins", "Fruit.Plugins.csproj", "{A38FF4A1-A8D8-5A0F-FF1E-63DD6DE1B669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit.Editor", "Fruit.Editor.csproj", "{5C0BF7E2-9CE4-2CF3-986F-A3407C350F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A969A7D6-E470-63BF-EE3E-7ED4FAFE4303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A969A7D6-E470-63BF-EE3E-7ED4FAFE4303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A969A7D6-E470-63BF-EE3E-7ED4FAFE4303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A969A7D6-E470-63BF-EE3E-7ED4FAFE4303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38FF4A1-A8D8-5A0F-FF1E-63DD6DE1B669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38FF4A1-A8D8-5A0F-FF1E-63DD6DE1B669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38FF4A1-A8D8-5A0F-FF1E-63DD6DE1B669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38FF4A1-A8D8-5A0F-FF1E-63DD6DE1B669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0BF7E2-9CE4-2CF3-986F-A3407C350F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0BF7E2-9CE4-2CF3-986F-A3407C350F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0BF7E2-9CE4-2CF3-986F-A3407C350F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0BF7E2-9CE4-2CF3-986F-A3407C350F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

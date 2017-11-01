@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6bdf5722e2936a46b010cc177c40be4, type: 3}
+  m_Name: pool
+  m_EditorClassIdentifier: 
+  poolList:
+  - Name: Fruit
+    MaxCount: 50
+    prefab: {fileID: 1145489439751680, guid: fa325620404071e46b47b6a42ebf6b6d, type: 2}
+  - Name: Line
+    MaxCount: 25
+    prefab: {fileID: 1602910492837472, guid: 5068798cb3eb3da4f81fc523784f2c9a, type: 2}
+  - Name: Score
+    MaxCount: 25
+    prefab: {fileID: 1750148099971866, guid: da88fa0a5754a0d41a3915894a1ce987, type: 2}
+  - Name: ExplodeEffect
+    MaxCount: 25
+    prefab: {fileID: 1846843031559882, guid: d1496f2cab27b63458a1d595d5994a18, type: 2}
