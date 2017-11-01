@@ -5,6 +5,6 @@ the eliminate of fruits
 把2个以上的相同水果连起来即可消除
 
 # 软件
-unity3D 2017版
-strangeIoc框架
+1. unity3D 2017版
+2. strangeIoc框架
 
